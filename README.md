@@ -21,4 +21,4 @@ The tasks that are automated by these scripts can also be executed manually. Mor
 https://techgenix.com/creating-a-new-outlook-profile-without-user-involvement/
 
 
-More information about the Intune configuration, can be found at: https://www.msb365.blog/
+More information about the Intune configuration, can be found at: https://www.msb365.blog/?p=5479
