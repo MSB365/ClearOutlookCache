@@ -120,8 +120,8 @@ if (Test-Path $registryPath) {
 
 ################################################################################################
 ################################################
-New-Item -Path HKCU:Software\Microsoft\MSB365_Outlook_clear_cache_Tool
-Get-Item -Path "HKCU:Software\Microsoft\MSB365_Outlook_clear_cache_Tool" | New-ItemProperty -Name CacheCleared -Value yes
+#New-Item -Path HKCU:Software\Microsoft\MSB365_Outlook_clear_cache_Tool
+#Get-Item -Path "HKCU:Software\Microsoft\MSB365_Outlook_clear_cache_Tool" | New-ItemProperty -Name CacheCleared -Value yes
 ################################################
 
 }else{
